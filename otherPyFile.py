@@ -1,1 +1,2 @@
-print("my string")
+# Message is inteded for test users.
+print("test message")
